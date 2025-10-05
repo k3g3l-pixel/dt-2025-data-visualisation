@@ -1,4 +1,4 @@
-Movie title ,Genre,Year,Rating ,Box office ,Duration 
+Movie_title ,Genre,Year,Rating ,Box_office ,Duration 
 "The Good, the Bad and the Ugly ",Western,1966,9,38.9,161
 Deadpool,Comedy,2016,8,782.6,108
 Guardians of the Galaxy ,Sci-Fi,2014,8,773.4,122
